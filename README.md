@@ -1,6 +1,12 @@
 <div align="center">
   <h1>Welcome(◍˃̶ᗜ˂̶◍)✩</h1>
 
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
   ![header](https://capsule-render.vercel.app/api?type=waving&color=f5a9b8&height=300&section=header&text=I%20mainly%20use%20Golang,%20C,%20Asm,%20Kotlin%20and%20Python.&fontSize=36&fontColor=ffffff)
 
 </div>
